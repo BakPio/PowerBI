@@ -13,4 +13,4 @@ https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
 ![image](https://github.com/user-attachments/assets/39fc9341-7ed7-4dc9-bbd7-d67acf67b3f2)
 
 Dax Studio Statistics
-![image](https://github.com/user-attachments/assets/44ee11c1-aff2-47b6-a5e0-73a2417ad0be)
+![image](https://github.com/user-attachments/assets/7bf55ec5-9c50-47ba-bfaa-0bd68c54843d)
