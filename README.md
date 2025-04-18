@@ -1,5 +1,5 @@
 Dashboard shows Amazon delivery efficiency and client ratings. 
-Source data has missing values in columns that were filled using K Neighbour Classification medthod with Python Script
+Source data has missing values in columns that were filled using K Neighbour Classification method with Python Script
 
 Raw data was taken from:
 https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
